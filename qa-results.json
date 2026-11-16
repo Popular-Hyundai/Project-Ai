@@ -1,0 +1,118 @@
+{
+  "metrics": {
+    "frames": 108,
+    "minContrast": 5.76950539677747,
+    "cls": 0,
+    "maxDraws": 16,
+    "axe": 0,
+    "consoleErrors": [],
+    "failedRequests": [],
+    "backends": [
+      [
+        375,
+        "default",
+        "webgpu"
+      ],
+      [
+        375,
+        "poster",
+        "poster"
+      ],
+      [
+        375,
+        "reduced",
+        "poster"
+      ],
+      [
+        768,
+        "default",
+        "webgpu"
+      ],
+      [
+        768,
+        "poster",
+        "poster"
+      ],
+      [
+        768,
+        "reduced",
+        "poster"
+      ],
+      [
+        1440,
+        "default",
+        "webgpu"
+      ],
+      [
+        1440,
+        "poster",
+        "poster"
+      ],
+      [
+        1440,
+        "reduced",
+        "poster"
+      ],
+      [
+        "high",
+        "webgpu",
+        {
+          "backend": "webgpu",
+          "frames": 39,
+          "draws": 16
+        }
+      ],
+      [
+        "mid",
+        "webgl",
+        {
+          "backend": "webgl2",
+          "frames": 47,
+          "draws": 16
+        }
+      ],
+      [
+        "low",
+        "webgpu",
+        {
+          "backend": "poster",
+          "frames": 0,
+          "draws": 0
+        }
+      ],
+      [
+        "poster",
+        "webgl",
+        {
+          "backend": "poster",
+          "frames": 0,
+          "draws": 0
+        }
+      ]
+    ],
+    "form": [
+      "Enter a complete",
+      "Enter a complete",
+      "Form works. Nothing was saved.",
+      "sending",
+      "500",
+      "retry",
+      "success"
+    ],
+    "links": 75,
+    "focus": 90,
+    "entryBytes": 73466,
+    "tightest": [
+      "1440-default-00",
+      "the noise.",
+      260,
+      496
+    ],
+    "lighthouse": {
+      "score": 100,
+      "lcp": 757.0655999999999,
+      "cls": 0
+    }
+  },
+  "failures": []
+}
